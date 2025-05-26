@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mabuel8.github.io/make3dlaserworks-sitemap/sitemap.xml
